@@ -73,3 +73,4 @@ Distributed under the MIT License. You are free to use, modify, and distribute t
 Join the Discord community [here](https://discord.gg/yenVspFmkB) to discuss new features, report bugs, talk to the developers and connect with other players.
 
 You can email me privately at gautam@codergautam.dev
+https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com/build/814767/3145641-archive-default?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3edfcce40115d057d0b5606758e7e9ee%2F20250331%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250331T151742Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=825ff42bd7dd016edffb8bf13bfeffde66daa8e726f9b976f0d444f15f6d6e36
